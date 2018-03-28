@@ -1,0 +1,5 @@
+
+dots_model_*
+selector_*
+*.pickle
+*.csv
